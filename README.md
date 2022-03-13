@@ -1,0 +1,2 @@
+# StateMachine
+Templated state machine
